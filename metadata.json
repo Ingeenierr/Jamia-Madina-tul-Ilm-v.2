@@ -1,0 +1,6 @@
+{
+  "name": "Jamia Madina-tul-Ilm",
+  "description": "Modern Madrassa student syllabus progress tracker with Material 3 dashboard and milestone notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
